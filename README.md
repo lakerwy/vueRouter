@@ -15,5 +15,8 @@
 
 7.main.js中引入要使用的router组件
 
+运行 npm install
+    npm run serve
+
 
 
